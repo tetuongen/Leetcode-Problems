@@ -1,7 +1,7 @@
 class Solution {
 public:
     int mySqrt(unsigned int x) {
-        if (x == 0) return 0;
+        if (x==0) return x;
         while (true) {
             unsigned int i = 1;
             while (i*i < x) i++;
