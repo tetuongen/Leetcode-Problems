@@ -7,6 +7,7 @@ Place to store submitted Leetcode problems for APCS
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tetuongen/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/tetuongen/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/tetuongen/Leetcode-Problems/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -28,4 +29,8 @@ Place to store submitted Leetcode problems for APCS
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/tetuongen/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/tetuongen/Leetcode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
